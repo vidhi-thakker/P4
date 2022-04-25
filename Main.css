@@ -1,5 +1,6 @@
 
 
+
 /*     FOOTER     */
 footer {
     position: fixed;
@@ -14,10 +15,11 @@ footer {
 }
 
 
+
 /*     FONT     */
 @font-face {
     font-family: CatthyWellingten;
-    src: url(/Users/vidhithakker/Downloads/catthy-wellingten-font/CatthyWellingten.ttf);
+    src: url(../Font/CatthyWellingten.ttf);
 }
 
 
@@ -136,6 +138,7 @@ img {
 }
 
 
+
 /*     ABOUT US SECTION     */
 .aboutus {
     /* Add shadows to create the "card" effect */
@@ -188,7 +191,6 @@ section .container {
     padding: 2px 16px;
     margin: auto;
 }
-
 
 
 
@@ -342,6 +344,8 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
     .text {font-size: 11px}
 }}
+
+
 
 /*     FLIP CARDS     */
 body {
